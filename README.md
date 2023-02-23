@@ -2,17 +2,17 @@
 
 <p> 
     <dl>
-        <dt>Education :student:</dt>
+        <dt>Education :student:</dt></br>
         <dd>:man_scientist: MEng Artificial Intelligence, Machine Learning and Big Data at Roma Tre University</a></dd>
         <dd>:man_technologist: BEng Software at Roma Tre University</a></dd>
     </dl>
-    </br>
     <dl>
-        <dt>Work :luggage:</dt>
-        <dd> :1st_place_medal: Data Scientist at <a href="https://www.enel.it">Enel</a></dd>
-        <dd> :2nd_place_medal: Engineer at <a href="https://www.hcltechsw.com">HCL</a></dd>
-        <dd> :3rd_place_medal: Data Engineer at <a href="https://www.reply.com">Reply</a></dd>
+        <dt>Work :luggage:</dt></br>
+        <dd>:1st_place_medal: Data Scientist at <a href="https://www.enel.it">Enel</a></dd>
+        <dd>:2nd_place_medal: Engineer at <a href="https://www.hcltechsw.com">HCL</a></dd>
+        <dd>:3rd_place_medal: Data Engineer at <a href="https://www.reply.com">Reply</a></dd>
     </dl>
+    </br>
 </p>
 
 
