@@ -6,6 +6,7 @@
         <dd>:man_scientist: MEng Artificial Intelligence, Machine Learning and Big Data at Roma Tre University</a></dd>
         <dd>:man_technologist: BEng Software at Roma Tre University</a></dd>
     </dl>
+    </br>
     <dl>
         <dt>Work :luggage:</dt>
         <dd> :1st_place_medal: Data Scientist at <a href="https://www.enel.it">Enel</a></dd>
