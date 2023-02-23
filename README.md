@@ -3,14 +3,14 @@
 <p> 
     <dl style="margin-bottom: 0px">
         <dt>Education :student:</dt></br>
-        <dd>:man_scientist: MEng Artificial Intelligence, Machine Learning and Big Data at Roma Tre University</a></dd>
-        <dd>:man_technologist: BEng Software at Roma Tre University</a></dd>
+        <dd style="margin-bottom: 0px">:man_scientist: MEng Artificial Intelligence, Machine Learning and Big Data at Roma Tre University</a></dd>
+        <dd style="margin-bottom: 0px">:man_technologist: BEng Software at Roma Tre University</a></dd>
     </dl>
     <dl>
         <dt>Work :luggage:</dt></br>
-        <dd>:1st_place_medal: Data Scientist at <a href="https://www.enel.it">Enel</a></dd>
-        <dd>:2nd_place_medal: Engineer at <a href="https://www.hcltechsw.com">HCL</a></dd>
-        <dd>:3rd_place_medal: Data Engineer at <a href="https://www.reply.com">Reply</a></dd>
+        <dd style="margin-bottom: 0px">:1st_place_medal: Data Scientist at <a href="https://www.enel.it">Enel</a></dd>
+        <dd style="margin-bottom: 0px">:2nd_place_medal: Engineer at <a href="https://www.hcltechsw.com">HCL</a></dd>
+        <dd style="margin-bottom: 0px">:3rd_place_medal: Data Engineer at <a href="https://www.reply.com">Reply</a></dd>
     </dl>
     </br>
 </p>
