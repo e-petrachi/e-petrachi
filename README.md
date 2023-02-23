@@ -1,11 +1,10 @@
 <h2> Hi, I'm Enrico Petrachi</h2>
 
 <p> 
-    <dl style="margin-bottom: 0px">
-        <dt>Education :student:</dt></br>
-        <dd style="margin-bottom: 0px">:man_scientist: MEng Artificial Intelligence, Machine Learning and Big Data at Roma Tre University</a></dd>
-        <dd style="margin-bottom: 0px">:man_technologist: BEng Software at Roma Tre University</a></dd>
-    </dl>
+Education :student:</br>
+- :man_scientist: MEng Artificial Intelligence, Machine Learning and Big Data at Roma Tre University</a></br>
+- :man_technologist: BEng Software at Roma Tre University</a></br>
+</br>
     <dl>
         <dt>Work :luggage:</dt></br>
         <dd style="margin-bottom: 0px">:1st_place_medal: Data Scientist at <a href="https://www.enel.it">Enel</a></dd>
