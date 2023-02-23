@@ -71,7 +71,9 @@ me.say_hi()
 
 
 <style>
-dd {
-  margin-bottom: 0;
+
+.markdown-body dl dd {
+  margin-bottom: 0px;
 }
+
 </style>
