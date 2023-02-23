@@ -29,7 +29,9 @@ class DataScientist:
         self.name = "Enrico Petrachi"
         self.role = "Data Scientist"
         self.approaches = ["agile", "data-driven"]
-        self.summary = "I'm a " + self.role + " with a technical education. I approach my data science projects from a " + self.approaches[1] + " business point of view and I use the "  + self.approaches[0] + " approach to quickly deliver results and improve them iteratively."
+        self.summary = "I'm a " + self.role + " with a technical education. \
+            I approach my data science projects from a " + self.approaches[1] + " business point of view \
+            and I use the "  + self.approaches[0] + " approach to quickly deliver results and improve them iteratively."
         self.bye = "Thanks for dropping by, hope you find some of my work interesting."
     def say_hi(self):
         print(self.bye)
