@@ -1,7 +1,7 @@
 <h2> Hi, I'm Enrico Petrachi</h2>
 
 <p> 
-    <dl>
+    <dl style="margin-bottom: 0px">
         <dt>Education :student:</dt></br>
         <dd>:man_scientist: MEng Artificial Intelligence, Machine Learning and Big Data at Roma Tre University</a></dd>
         <dd>:man_technologist: BEng Software at Roma Tre University</a></dd>
@@ -68,12 +68,3 @@ me.say_hi()
 ![Spark](https://img.shields.io/badge/Spark-Libs-black?logo=ApacheSpark&logoColor=white)
 ![SkLearn](https://img.shields.io/badge/SkLearn-Libs-black?logo=scikit-learn&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Libs-black?logo=Flask&logoColor=white)
-
-
-<style>
-
-.markdown-body dl dd {
-  margin-bottom: 0px;
-}
-
-</style>
