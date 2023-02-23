@@ -1,15 +1,17 @@
 <h2> Hi, I'm Enrico Petrachi</h2>
 
 <p> 
-    <el>Education :student:
-        <li>:man_scientist: MEng Artificial Intelligence, Machine Learning and Big Data at Roma Tre University</a></li>
-        <li>:man_technologist: BEng Software at Roma Tre University</a></li>
-    </el>
-    <el>Work :luggage: 
-        <li> :1st_place_medal: Data Scientist at <a href="https://www.enel.it">Enel</a></li>
-        <li> :2nd_place_medal: Engineer at <a href="https://www.hcltechsw.com">HCL</a></li>
-        <li> :3rd_place_medal: Data Engineer at <a href="https://www.reply.com">Reply</a></li>
-    </el>
+    <dl>
+        <dt>Education :student:</dt>
+        <dd>:man_scientist: MEng Artificial Intelligence, Machine Learning and Big Data at Roma Tre University</a></dd>
+        <dd>:man_technologist: BEng Software at Roma Tre University</a></dd>
+    </dl>
+    <dl>
+        <dt>Work :luggage:</dt>
+        <dd> :1st_place_medal: Data Scientist at <a href="https://www.enel.it">Enel</a></dd>
+        <dd> :2nd_place_medal: Engineer at <a href="https://www.hcltechsw.com">HCL</a></dd>
+        <dd> :3rd_place_medal: Data Engineer at <a href="https://www.reply.com">Reply</a></dd>
+    </dl>
 </p>
 
 
