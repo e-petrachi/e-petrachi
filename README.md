@@ -6,9 +6,9 @@ Education :student:</br>
 - :man_technologist: BEng Software at Roma Tre University</a></br>
 </br>
 Work :luggage:</br>
-- :1st_place_medal: Data Scientist at <a href="https://www.enel.it">Enel</a></br>
-- :2nd_place_medal: Engineer at <a href="https://www.hcltechsw.com">HCL</a></br>
-- :3rd_place_medal: Data Engineer at <a href="https://www.reply.com">Reply</a></br>
+- :1st_place_medal: 2021/Now Data Scientist at <a href="https://www.enel.it">Enel</a></br>
+- :2nd_place_medal: 2019/2020 Engineer at <a href="https://www.hcltechsw.com">HCL</a></br>
+- :3rd_place_medal: 2018/2019 Data Engineer at <a href="https://www.reply.com">Reply</a></br>
 </br>
 </p>
 
