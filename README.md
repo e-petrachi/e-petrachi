@@ -5,13 +5,11 @@ Education :student:</br>
 - :man_scientist: MEng Artificial Intelligence, Machine Learning and Big Data at Roma Tre University</a></br>
 - :man_technologist: BEng Software at Roma Tre University</a></br>
 </br>
-    <dl>
-        <dt>Work :luggage:</dt></br>
-        <dd style="margin-bottom: 0px">:1st_place_medal: Data Scientist at <a href="https://www.enel.it">Enel</a></dd>
-        <dd style="margin-bottom: 0px">:2nd_place_medal: Engineer at <a href="https://www.hcltechsw.com">HCL</a></dd>
-        <dd style="margin-bottom: 0px">:3rd_place_medal: Data Engineer at <a href="https://www.reply.com">Reply</a></dd>
-    </dl>
-    </br>
+Work :luggage:</br>
+- :1st_place_medal: Data Scientist at <a href="https://www.enel.it">Enel</a></br>
+- :2nd_place_medal: Engineer at <a href="https://www.hcltechsw.com">HCL</a></br>
+- :3rd_place_medal: Data Engineer at <a href="https://www.reply.com">Reply</a></br>
+</br>
 </p>
 
 
