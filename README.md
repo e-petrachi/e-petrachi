@@ -3,10 +3,9 @@
 <a href="https://www.linkedin.com/in/enricopetrachi/">![Linkedin: enricopetrachi](https://img.shields.io/badge/Enrico_Petrachi-blue?logo=Linkedin&logoColor=white)
 </a>
 
-
 <table>
-    <caption style="text-align: left;">Education</br></br></caption>
-    <tr style="background: #ecf2f2;">
+    <caption style="text-align: left;">Education:</br></br></caption>
+    <tr>
         <th>:student:</th>
         <th>Degree</th>
         <th>Specialization</th>
@@ -27,7 +26,7 @@
 </table>
 
 <table>
-    <caption style="text-align: left;">Experience</br></br></caption>
+    <caption style="text-align: left;">Experience:</br></br></caption>
     <tr>
         <th>:office:</th>
         <th>Years</th>
@@ -66,20 +65,23 @@ class DataScientist:
     def __init__(self):
         self.name = "Enrico Petrachi"
         self.role = "Data Scientist"
-        self.approaches = ["agile", "data-driven"]
         self.summary = "I'm a " + self.role + " with a technical education. \
-            I approach my data science projects from a " + self.approaches[1] + \
-            " business point of view and I use the "  + self.approaches[0] + \
-            " approach to quickly deliver results and improve them iteratively."
+            I approach my data-driven projects from a business point of view \
+            and I use the agile approach to quickly deliver results and improve \ them iteratively."
         self.bye = "Thanks for dropping by, hope you find some of my work interesting."
+
     def say_hi(self):
         print(self.bye)
 
+    def introduce_yourself(self):
+        print(self.summary)
+
 me = DataScientist()
 me.say_hi()
+me.introduce_yourself()
 ```
 
-<h2>Skills</h2>
+<h2>Techin</h2>
 
 <h3>OS - Editors - Tools</h3>
 
