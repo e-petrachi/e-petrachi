@@ -1,10 +1,10 @@
 <h2> Hi, I'm Enrico Petrachi</h2>
 
-<table style="text-align: left;">
+<table>
     <caption style="text-align: left;">Monthly savings</caption>
     <th>:student:</th>
     <th>Degree</th>
-    <th>Specialization</th>
+    <th style="text-align: left;">Specialization</th>
     <th>University</th>
     <tr>
         <td>:man_scientist:</td>
