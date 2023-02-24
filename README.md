@@ -54,7 +54,7 @@
 </table>
 
 
-<h2>A little more about me... </h2>
+<h3>About me 🎶 : </h3>
 
 
 ```python
@@ -82,9 +82,9 @@ me.say_hi()
 me.introduce_yourself()
 ```
 
-<h2>Techin</h2>
+<h3>Technicalities :gear: :</h3>
 
-<h3>OS - Editors - Tools</h3>
+<h4>OS - Editors - Tools</h4>
 
 ![macOS](https://img.shields.io/badge/mac-OS-black?logo=apple&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-OS-FCC624?logo=linux&logoColor=FCC624)
@@ -100,7 +100,7 @@ me.introduce_yourself()
 ![Docker](https://img.shields.io/badge/Docker-Tools-2496ED?logo=Docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Tools-326CE5?logo=kubernetes&logoColor=326CE5)
 
-<h3>Code - Database - Libraries</h3>
+<h4>Code - Database - Libraries</h4>
 
 ![Python](https://img.shields.io/badge/Python-Code-3776AB?logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-Code-black?logo=sql&logoColor=white)
