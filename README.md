@@ -1,6 +1,6 @@
 <h2> Hi, I'm Enrico Petrachi</h2>
 
-<table width="100%">
+<table width="100%"><tbody width="100%">
     <th width="10">:student:</th>
     <th>Degree</th>
     <th>Specialization</th>
@@ -17,7 +17,7 @@
         <td>Software Engineering</td>
         <td>Roma Tre</td>
     </tr>
-</table>
+</tbody></table>
 
 <table width="100%">
     <th width="10">:office:</th>
