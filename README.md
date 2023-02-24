@@ -4,7 +4,7 @@
 </a>
 
 <table>
-    <caption style="text-align: left;">Education:</br></br></caption>
+    <caption style="text-align: left;"><h3>Education:</h3></br></br></caption>
     <tr>
         <th>:student:</th>
         <th>Degree</th>
