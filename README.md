@@ -14,17 +14,20 @@
 
 <table>
     <th width="10">:student:</th>
-    <th>Education</th>
-    <th></th>
+    <th>Degree</th>
+    <th>Specialization</th>
+    <th>University</th>
     <tr>
         <td width="10"></td>
         <td>MEng :man_scientist:</td>
-        <td>Artificial Intelligence, Machine Learning and Big Data @ Roma Tre University</td>
+        <td>Artificial Intelligence, Machine Learning and Big Data</td>
+        <td>Roma Tre University</td>
     </tr>
     <tr>
         <td width="10"></td>
         <td>BEng :man_technologist:</td>
-        <td>Software @ Roma Tre University</td>
+        <td>Software Engineering</td>
+        <td>Roma Tre University</td>
     </tr>
 </table>
 
