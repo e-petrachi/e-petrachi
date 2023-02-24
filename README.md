@@ -2,8 +2,8 @@
 
 <p> 
 :student: Education:</br>
-&emsp; MEng :man_scientist: Artificial Intelligence, Machine Learning and Big Data @ Roma Tre University</a></br>
-&emsp; BEng :man_technologist: Software @ Roma Tre University</a></br>
+&emsp; MEng :man_scientist: Artificial Intelligence, Machine Learning and Big Data @ Roma Tre University</br>
+&emsp; BEng :man_technologist: Software @ Roma Tre University</br>
 </br>
  :office: Working Experience:</br>
 &emsp; '20/now&emsp;:bulb: Data Scientist @ <a href="https://www.enel.it">Enel</a></br>
@@ -12,6 +12,21 @@
 </br>
 </p>
 
+<table>
+    <th width="10">:student:</th>
+    <th>Education</th>
+    <th></th>
+    <tr>
+        <td width="10"></td>
+        <td>MEng :man_scientist:</td>
+        <td>Artificial Intelligence, Machine Learning and Big Data @ Roma Tre University</td>
+    </tr>
+    <tr>
+        <td width="10"></td>
+        <td>BEng :man_technologist:</td>
+        <td>Software @ Roma Tre University</td>
+    </tr>
+</table>
 
 [![Linkedin: enricopetrachi](https://img.shields.io/badge/Enrico_Petrachi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/enricopetrachi/)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=e-petrachi.e-petrachi)
