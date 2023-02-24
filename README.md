@@ -65,10 +65,10 @@ class DataScientist:
     def __init__(self):
         self.name = "Enrico Petrachi"
         self.role = "Data Scientist"
-        self.summary = "Hi I\'m " + self.name + " a " + self.role + " with a technical \
-            education. I approach my data-driven projects from a business point of \ 
-            view and I use the agile approach to quickly deliver results and improve \
-            them iteratively."
+        self.summary = "Hi I\'m " + self.name + " a " + self.role + " with a \
+            technical education. I approach my data-driven projects from a \
+            business point of view and I use the agile approach to quickly \
+            deliver results and improve them iteratively."
         self.bye = "Thanks for dropping by, hope you find some of my work interesting."
 
     def say_hi(self):
