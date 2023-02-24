@@ -4,14 +4,14 @@
 </a>
 
 
-
-
 <table>
     <caption style="text-align: left;">Education</br></br></caption>
-    <th>:student:</th>
-    <th>Degree</th>
-    <th>Specialization</th>
-    <th>University</th>
+    <tr>
+        <th>:student:</th>
+        <th>Degree</th>
+        <th>Specialization</th>
+        <th>University</th>
+    </tr>
     <tr>
         <td>:man_scientist:</td>
         <td>MEng</td>
@@ -28,10 +28,12 @@
 
 <table>
     <caption style="text-align: left;">Experience</br></br></caption>
-    <th>:office:</th>
-    <th>Years</th>
-    <th>Role</th>
-    <th>Enterprise</th>
+    <tr>
+        <th>:office:</th>
+        <th>Years</th>
+        <th>Role</th>
+        <th>Enterprise</th>
+    </tr>
     <tr>
         <td>:bulb:</td>
         <td>'20/now</td>
