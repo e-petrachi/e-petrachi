@@ -118,7 +118,8 @@ me.introduce_yourself()
 <div>
 </br>
 
-<img src="https://www.ballet.org.uk/wp-content/uploads/2017/12/Ivan-Vasiliev-in-Jeune-Homme-c-Laurent-Liotardo-2800x1874.jpg" alt="Le Jeune Homme et la Mort" height="200px"> 
-<img src="https://c492e334-a-62cb3a1a-s-sites.googlegroups.com/site/dealirica/autori/giuseppe-verdi/rigoletto/parmarigoletto2.jpg" alt="Rigoletto" height="200px">
+<img src="https://www.ballet.org.uk/wp-content/uploads/2017/12/Ivan-Vasiliev-in-Jeune-Homme-c-Laurent-Liotardo-2800x1874.jpg" alt="Le Jeune Homme et la Mort" height="200px">
+
+<img src="https://attpac-website-assets.s3.amazonaws.com/assets/Image/8382-fitandcrop-660x365.jpg" alt="Rigoletto" height="200px">
 
 </div>
