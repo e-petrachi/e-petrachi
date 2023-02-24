@@ -4,9 +4,9 @@
 </a>
 
 <table>
-    <caption style="text-align: left;"><h3>Education:</h3></caption>
+    <caption style="text-align: left;"><h3>Education :student: :</h3></caption>
     <tr>
-        <th>:student:</th>
+        <th></th>
         <th>Degree</th>
         <th>Specialization</th>
         <th>University</th>
@@ -26,9 +26,9 @@
 </table>
 
 <table>
-    <caption style="text-align: left;"><h3>Experience:</h3></caption>
+    <caption style="text-align: left;"><h3>Experience :office: :</h3></caption>
     <tr>
-        <th>:office:</th>
+        <th></th>
         <th>Years</th>
         <th>Role</th>
         <th>Enterprise</th>
