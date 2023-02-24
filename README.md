@@ -2,13 +2,13 @@
 
 <p> 
 Education :student:</br>
-- :man_scientist: MEng Artificial Intelligence, Machine Learning and Big Data at Roma Tre University</a></br>
-- :man_technologist: BEng Software at Roma Tre University</a></br>
+&emsp; :man_scientist: MEng Artificial Intelligence, Machine Learning and Big Data at Roma Tre University</a></br>
+&emsp; :man_technologist: BEng Software at Roma Tre University</a></br>
 </br>
 Work :office:</br>
-&#09; :bulb: 2020/Now Data Scientist at <a href="https://www.enel.it">Enel</a></br>
-&#09; :desktop_computer: 2019/2020 Engineer at <a href="https://www.hcltechsw.com">HCL</a></br>
-&#09; :necktie: 2018/2019 Data Engineer at <a href="https://www.reply.com">Reply</a></br>
+&emsp; :bulb: 2020/Now Data Scientist at <a href="https://www.enel.it">Enel</a></br>
+&emsp; :desktop_computer: 2019/2020 Engineer at <a href="https://www.hcltechsw.com">HCL</a></br>
+&emsp; :necktie: 2018/2019 Data Engineer at <a href="https://www.reply.com">Reply</a></br>
 </br>
 </p>
 
