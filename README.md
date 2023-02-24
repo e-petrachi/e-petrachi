@@ -115,6 +115,8 @@ me.introduce_yourself()
 
 <h3>Passions :gift_heart: :man_dancing: :headphones: :studio_microphone: :</h3>
 
-![Le Jeune Homme et la Mort](https://www.ballet.org.uk/wp-content/uploads/2017/12/Ivan-Vasiliev-in-Jeune-Homme-c-Laurent-Liotardo-2800x1874.jpg)
+<div>
+<img src="https://www.ballet.org.uk/wp-content/uploads/2017/12/Ivan-Vasiliev-in-Jeune-Homme-c-Laurent-Liotardo-2800x1874.jpg" alt="Le Jeune Homme et la Mort" width="70%">
 
-<img src="https://www.ballet.org.uk/wp-content/uploads/2017/12/Ivan-Vasiliev-in-Jeune-Homme-c-Laurent-Liotardo-2800x1874.jpg" alt="Le Jeune Homme et la Mort" width="50%">
+<img src="https://c492e334-a-62cb3a1a-s-sites.googlegroups.com/site/dealirica/autori/giuseppe-verdi/rigoletto/parmarigoletto2.jpg" alt="Rigoletto" width="70%">
+</div>
