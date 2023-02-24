@@ -1,4 +1,12 @@
-<h2> Hi, I'm Enrico Petrachi</h2>
+<h2> Hi, I'm Enrico Petrachi <a href="https://www.linkedin.com/in/enricopetrachi/">![Linkedin: enricopetrachi](https://img.shields.io/badge/Enrico_Petrachi-blue?logo=Linkedin&logoColor=white)
+</a> </h2> 
+
+<a href="https://www.linkedin.com/in/enricopetrachi/">![Linkedin: enricopetrachi](https://img.shields.io/badge/Enrico_Petrachi-blue?logo=Linkedin&logoColor=white)
+</a>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=e-petrachi.e-petrachi)
+
+
 
 <table>
     <caption style="text-align: left;">Education</br></br></caption>
