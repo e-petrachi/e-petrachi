@@ -1,6 +1,6 @@
 <h2> Hi, I'm Enrico Petrachi</h2>
 
-<table>
+<table width="100%">
     <th width="10">:student:</th>
     <th>Degree</th>
     <th>Specialization</th>
@@ -19,7 +19,7 @@
     </tr>
 </table>
 
-<table>
+<table width="100%">
     <th width="10">:office:</th>
     <th>Years</th>
     <th>Role</th>
@@ -44,33 +44,6 @@
     </tr>
 </table>
 
-<p> 
-
- :office: Working Experience:</br>
-&emsp; '20/now&emsp;:bulb: Data Scientist @ <a href="https://www.enel.it">Enel</a></br>
-&emsp; '19/'20 &emsp; :desktop_computer: Machine Learning Engineer @ <a href="https://www.hcltechsw.com">HCL</a></br>
-&emsp; '18/'19 &emsp; :necktie: Data Engineer @ <a href="https://www.reply.com">Reply</a></br>
-</br>
-</p>
-
-<table>
-    <th width="10">:student:</th>
-    <th>Degree</th>
-    <th>Specialization</th>
-    <th>University</th>
-    <tr>
-        <td>:man_scientist:</td>
-        <td>MEng</td>
-        <td>Artificial Intelligence, Machine Learning and Big Data</td>
-        <td>Roma Tre</td>
-    </tr>
-    <tr>
-        <td>:man_technologist:</td>
-        <td>BEng</td>
-        <td>Software Engineering</td>
-        <td>Roma Tre</td>
-    </tr>
-</table>
 
 [![Linkedin: enricopetrachi](https://img.shields.io/badge/Enrico_Petrachi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/enricopetrachi/)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=e-petrachi.e-petrachi)
