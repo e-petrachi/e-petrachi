@@ -1,7 +1,7 @@
 <h2> Hi, I'm Enrico Petrachi</h2>
 
 <table>
-    <caption style="text-align: left;">Monthly savings</br></br></caption>
+    <caption style="text-align: left;">Education</br></br></caption>
     <th>:student:</th>
     <th>Degree</th>
     <th>Specialization</th>
@@ -21,7 +21,7 @@
 </table>
 
 <table>
-    <caption>Monthly savings</caption>
+    <caption style="text-align: left;">Experience</br></br></caption>
     <th>:office:</th>
     <th>Years</th>
     <th>Role</th>
