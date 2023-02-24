@@ -117,8 +117,8 @@ me.introduce_yourself()
 
 <div>
 
-    <img src="https://www.ballet.org.uk/wp-content/uploads/2017/12/Ivan-Vasiliev-in-Jeune-Homme-c-Laurent-Liotardo-2800x1874.jpg" alt="Le Jeune Homme et la Mort" height="200px">
+<img src="https://www.ballet.org.uk/wp-content/uploads/2017/12/Ivan-Vasiliev-in-Jeune-Homme-c-Laurent-Liotardo-2800x1874.jpg" alt="Le Jeune Homme et la Mort" height="200px">
 
-    <img src="https://attpac-website-assets.s3.amazonaws.com/assets/Image/8382-fitandcrop-660x365.jpg" alt="Rigoletto" height="200px">
+<img src="https://attpac-website-assets.s3.amazonaws.com/assets/Image/8382-fitandcrop-660x365.jpg" alt="Rigoletto" height="200px">
 
 </div>
