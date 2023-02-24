@@ -1,10 +1,51 @@
 <h2> Hi, I'm Enrico Petrachi</h2>
 
+<table>
+    <th width="10">:student:</th>
+    <th>Degree</th>
+    <th>Specialization</th>
+    <th>University</th>
+    <tr>
+        <td>:man_scientist:</td>
+        <td>MEng</td>
+        <td>Artificial Intelligence, Machine Learning and Big Data</td>
+        <td>Roma Tre</td>
+    </tr>
+    <tr>
+        <td>:man_technologist:</td>
+        <td>BEng</td>
+        <td>Software Engineering</td>
+        <td>Roma Tre</td>
+    </tr>
+</table>
+
+<table>
+    <th width="10">:office:</th>
+    <th>Years</th>
+    <th>Role</th>
+    <th>Enterprise</th>
+    <tr>
+        <td>:bulb:</td>
+        <td>'20/now</td>
+        <td>Data Scientist</td>
+        <td><a href="https://www.enel.it">Enel</a></td>
+    </tr>
+    <tr>
+        <td>:desktop_computer:</td>
+        <td>'19/'20</td>
+        <td>Machine Learning Engineer</td>
+        <td><a href="https://www.hcltechsw.com">HCL</a></td>
+    </tr>
+    <tr>
+        <td>:necktie:</td>
+        <td>'18/'19</td>
+        <td>Data Engineer</td>
+        <td><a href="https://www.reply.com">Reply</a></td>
+    </tr>
+</table>
+
 <p> 
-:student: Education:</br>
-&emsp; MEng :man_scientist: Artificial Intelligence, Machine Learning and Big Data @ Roma Tre University</br>
-&emsp; BEng :man_technologist: Software @ Roma Tre University</br>
-</br>
+
  :office: Working Experience:</br>
 &emsp; '20/now&emsp;:bulb: Data Scientist @ <a href="https://www.enel.it">Enel</a></br>
 &emsp; '19/'20 &emsp; :desktop_computer: Machine Learning Engineer @ <a href="https://www.hcltechsw.com">HCL</a></br>
@@ -18,16 +59,16 @@
     <th>Specialization</th>
     <th>University</th>
     <tr>
-        <td width="10">:man_scientist:</td>
+        <td>:man_scientist:</td>
         <td>MEng</td>
         <td>Artificial Intelligence, Machine Learning and Big Data</td>
-        <td>Roma Tre University</td>
+        <td>Roma Tre</td>
     </tr>
     <tr>
-        <td width="10">:man_technologist:</td>
+        <td>:man_technologist:</td>
         <td>BEng</td>
         <td>Software Engineering</td>
-        <td>Roma Tre University</td>
+        <td>Roma Tre</td>
     </tr>
 </table>
 
