@@ -69,7 +69,7 @@ class DataScientist:
             technical education. I approach my data-driven projects from a \
             business point of view and I use the agile approach to quickly \
             deliver results and improve them iteratively."
-        self.bye = "Thanks for dropping by, hope you find some of my work interesting."
+        self.bye = "Thanks for dropping by here!"
 
     def say_hi(self):
         print(self.bye)
