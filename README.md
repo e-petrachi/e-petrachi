@@ -18,14 +18,14 @@
     <th>Specialization</th>
     <th>University</th>
     <tr>
-        <td width="10"></td>
-        <td>MEng :man_scientist:</td>
+        <td width="10">:man_scientist:</td>
+        <td>MEng</td>
         <td>Artificial Intelligence, Machine Learning and Big Data</td>
         <td>Roma Tre University</td>
     </tr>
     <tr>
-        <td width="10"></td>
-        <td>BEng :man_technologist:</td>
+        <td width="10">:man_technologist:</td>
+        <td>BEng</td>
         <td>Software Engineering</td>
         <td>Roma Tre University</td>
     </tr>
