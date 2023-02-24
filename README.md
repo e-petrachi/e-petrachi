@@ -4,7 +4,7 @@
 </a>
 
 <table>
-    <caption style="text-align: left;"><h3>Education :student: :</h3></caption>
+    <caption style="text-align: left;"><h3>Education :man_student: :</h3></caption>
     <tr>
         <th></th>
         <th>Degree</th>
@@ -111,3 +111,10 @@ me.introduce_yourself()
 ![Spark](https://img.shields.io/badge/Spark-Libs-E25A1C?logo=ApacheSpark&logoColor=E25A1C)
 ![SkLearn](https://img.shields.io/badge/SkLearn-Libs-F7931E?logo=scikit-learn&logoColor=F7931E)
 ![Flask](https://img.shields.io/badge/Flask-Libs-black?logo=Flask&logoColor=white)
+
+
+<h3>Passions :gift_heart: :man_dancing: :headphones: :studio_microphone: :</h3>
+
+![Le Jeune Homme et la Mort](https://www.ballet.org.uk/wp-content/uploads/2017/12/Ivan-Vasiliev-in-Jeune-Homme-c-Laurent-Liotardo-2800x1874.jpg)
+
+<img src="https://www.ballet.org.uk/wp-content/uploads/2017/12/Ivan-Vasiliev-in-Jeune-Homme-c-Laurent-Liotardo-2800x1874.jpg" alt="Le Jeune Homme et la Mort" width="50%">
