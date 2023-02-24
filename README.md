@@ -6,7 +6,7 @@
 
 <table>
     <caption style="text-align: left;">Education</br></br></caption>
-    <tr>
+    <tr style="background: #ecf2f2;">
         <th>:student:</th>
         <th>Degree</th>
         <th>Specialization</th>
