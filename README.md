@@ -6,9 +6,9 @@ Education :student:</br>
 &emsp; :man_technologist: BEng Software at Roma Tre University</a></br>
 </br>
  :office: Working Experience:</br>
-&emsp; :bulb: 2020/Now Data Scientist at <a href="https://www.enel.it">Enel</a></br>
-&emsp; :desktop_computer: 2019/2020 Engineer at <a href="https://www.hcltechsw.com">HCL</a></br>
-&emsp; :necktie: 2018/2019 Data Engineer at <a href="https://www.reply.com">Reply</a></br>
+&emsp; '20/now&emsp;:bulb: Data Scientist at <a href="https://www.enel.it">Enel</a></br>
+&emsp; '19/'20 &emsp; :desktop_computer: Machine Learning Engineer at <a href="https://www.hcltechsw.com">HCL</a></br>
+&emsp; '18/'19 &emsp; :necktie: Data Engineer at <a href="https://www.reply.com">Reply</a></br>
 </br>
 </p>
 
