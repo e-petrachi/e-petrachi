@@ -1,14 +1,14 @@
 <h2> Hi, I'm Enrico Petrachi</h2>
 
 <p> 
-Education :student:</br>
-&emsp; :man_scientist: MEng Artificial Intelligence, Machine Learning and Big Data at Roma Tre University</a></br>
-&emsp; :man_technologist: BEng Software at Roma Tre University</a></br>
+:student: Education:</br>
+&emsp; MEng :man_scientist: Artificial Intelligence, Machine Learning and Big Data @ Roma Tre University</a></br>
+&emsp; BEng :man_technologist: Software @ Roma Tre University</a></br>
 </br>
  :office: Working Experience:</br>
-&emsp; '20/now&emsp;:bulb: Data Scientist at <a href="https://www.enel.it">Enel</a></br>
-&emsp; '19/'20 &emsp; :desktop_computer: Machine Learning Engineer at <a href="https://www.hcltechsw.com">HCL</a></br>
-&emsp; '18/'19 &emsp; :necktie: Data Engineer at <a href="https://www.reply.com">Reply</a></br>
+&emsp; '20/now&emsp;:bulb: Data Scientist @ <a href="https://www.enel.it">Enel</a></br>
+&emsp; '19/'20 &emsp; :desktop_computer: Machine Learning Engineer @ <a href="https://www.hcltechsw.com">HCL</a></br>
+&emsp; '18/'19 &emsp; :necktie: Data Engineer @ <a href="https://www.reply.com">Reply</a></br>
 </br>
 </p>
 
