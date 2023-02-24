@@ -1,7 +1,7 @@
 <h2> Hi, I'm Enrico Petrachi</h2>
 
-<table width="100%"><tbody width="100%">
-    <th width="10">:student:</th>
+<table>
+    <th>:student:</th>
     <th>Degree</th>
     <th>Specialization</th>
     <th>University</th>
@@ -17,10 +17,10 @@
         <td>Software Engineering</td>
         <td>Roma Tre</td>
     </tr>
-</tbody></table>
+</table>
 
-<table width="100%">
-    <th width="10">:office:</th>
+<table>
+    <th>:office:</th>
     <th>Years</th>
     <th>Role</th>
     <th>Enterprise</th>
